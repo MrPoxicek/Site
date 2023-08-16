@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <title>Roblox Scripts By MrPoxicek</title>
+</head>
+<body>
+
+    <h1>Scripts Are Made By MrPoxicek</h1>
+    <p><b><big>TOP 5 BEST scripts to Pet Simulator X</big></b></p>
+
+    <a href="file:///C:/RobloxScripts/Scripts/OfficialScripts.html" target=_blank>
+    <button style="background-color: #333333;color: #00FF00;border-radius: 5px;">MrPoxicek's Scripts</button>
+    </a>
+    
+    <button onclick="changetext()"style="" ;style="background-color: #333333;color: #00FF00;border-radius: 5px;">dont click!</button>
+
+    <p id="test"><span style="color:antiquewhite">These scripts are 99.9% mine :)</span>
+
+    <script>
+        function changetext(){
+            document.getElementById("test").innerHTML = "<b>100% these scripts are NOT mine...Click MrPoxicek's Scripts to see my scripts!!</b>";
+        }
+    </script>
+
+
+
+    <p>1.Project WD: loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Mainstring.lua"))()</p>
+    <p>2.Milk Up: loadstring(game:HttpGet("https://milkup.info/script/PetSimulatorX/"))()</p>
+    <p>3.Void Hub: loadstring(game:HttpGet("https://raw.githubusercontent.com/Wind596/VoidHub/main/WiningDediy", true))()</p>
+    <p>4.1Fo's Script: loadstring(game:GetObjects("rbxassetid://8194485654")[1].Source)("Petsi-X")</p>
+    <p>5.Project Evo: loadstring(game:HttpGet("https://raw.githubusercontent.com/Project-Evolution/Main/main/Loader.lua", true))()</p>
+
+    <img src="sbtmrp.png">
+
+</body>
+
+</html>
